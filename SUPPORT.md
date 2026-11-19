@@ -5,7 +5,7 @@
 - **Documentation & API Reference:** [`https://docs.scalix.world`](https://docs.scalix.world)
 - **Cloud Console:** [`https://console.scalix.world`](https://console.scalix.world)
 - **Live OpenAPI 3.1 Spec:** [`https://api.scalix.world/openapi.json`](https://api.scalix.world/openapi.json)
-- **Legal, Terms, Privacy & DPA:** [`https://scalix.world/legal`](https://scalix.world/legal)
+- **Legal, Terms, Privacy & Security:** [Terms](https://scalix.world/terms) · [Privacy](https://scalix.world/privacy) · [Security](https://scalix.world/security)
 - **Subprocessors:** [`https://scalix.world/subprocessors`](https://scalix.world/subprocessors)
 
 ## Contact Channels

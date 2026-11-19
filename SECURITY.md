@@ -7,7 +7,7 @@
 If you discover a security issue in any Scalix Cloud service, SDK, CLI, MCP integration, or public repository, please report it privately to:
 
 - **Email:** [`security@scalix.world`](mailto:security@scalix.world)
-- **Disclosure policy:** [`https://scalix.world/.well-known/security.txt`](https://scalix.world/.well-known/security.txt) & [`https://scalix.world/legal`](https://scalix.world/legal)
+- **Disclosure policy:** [`https://scalix.world/.well-known/security.txt`](https://scalix.world/.well-known/security.txt) & [`https://scalix.world/security`](https://scalix.world/security)
 
 ## What to Include
 

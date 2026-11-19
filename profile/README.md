@@ -16,7 +16,7 @@
 - **Scalix AI:** Managed multi-vendor AI model catalog served through an OpenAI-compatible API (chat, streaming, embeddings, speech, RAG) with unified metering.
 - **Storage, KV & Auth:** S3-compatible object storage, key-value store, project-scoped IAM / OAuth / RBAC, and audit logs.
 - **Agent-Native MCP (53 tools):** Single remote Streamable HTTP MCP endpoint (`https://api.scalix.world/v1/mcp`) so AI agents and coding assistants operate the full platform programmatically.
-- **Developer Suite:** Scalix Coder, Scalix IDE, and the [Scalix Marketplace](https://scalix.world/marketplace).
+- **Developer Suite:** Scalix Coder, Scalix IDE, and the [Scalix Marketplace](https://github.com/scalixworld/scalix-marketplace) ([catalog API](https://scalix.world/agent-catalog/listings)).
 
 ---
 
@@ -40,9 +40,9 @@
 | Website | [scalix.world](https://scalix.world) |
 | Console | [console.scalix.world](https://console.scalix.world) |
 | Docs | [docs.scalix.world](https://docs.scalix.world) |
-| Marketplace | [scalix.world/marketplace](https://scalix.world/marketplace) |
+| Marketplace | [scalix-marketplace](https://github.com/scalixworld/scalix-marketplace) · [Catalog API](https://scalix.world/agent-catalog/listings) |
 | MCP Endpoint | [`https://api.scalix.world/v1/mcp`](https://api.scalix.world/v1/mcp) |
-| Legal & DPA | [scalix.world/legal](https://scalix.world/legal) |
+| Legal & Policies | [Terms](https://scalix.world/terms) · [Privacy](https://scalix.world/privacy) · [Security](https://scalix.world/security) |
 | Subprocessors | [scalix.world/subprocessors](https://scalix.world/subprocessors) |
 | Security | [`security@scalix.world`](mailto:security@scalix.world) · [security.txt](https://scalix.world/.well-known/security.txt) |
 | Discord | [discord.gg/Ktq9qvpzBM](https://discord.gg/Ktq9qvpzBM) |
